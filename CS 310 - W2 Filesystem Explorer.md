@@ -1,4 +1,5 @@
 # CS 310: Week 2 - File System Explorer
+Silas Curtis
 
 ## Report
 
